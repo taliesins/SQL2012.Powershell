@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>SQL2012.PowerShell</id>
+    <version>11.0.2100.60</version>
+    <title>Microsoft Windows PowerShell Extensions for SQL Server</title>
+    <authors>Microsoft</authors>
+    <owners>Taliesin Sisson</owners>
+    <projectUrl>http://www.microsoft.com/en-us/download/details.aspx?id=35580</projectUrl>
+    <iconUrl>https://github.com/taliesins/SQL2012.Powershell/raw/master/SQL2012.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>The Microsoft Windows PowerShell Extensions for SQL Server2012 includes a provider and a set of cmdlets that enable administrators and developers to build PowerShell scripts for managing instances of SQL Server. The SQL Server PowerShell Provider delivers a simple mechanism for navigating SQL Server instances that is similar to file system paths. PowerShell scripts can then use the SQL Server Management Objects to administer the instances. The SQL Server cmdlets support operations such as executing Transact-SQL scripts or evaluating SQL Server policies.</description>
+    <summary>Microsoft SQL Server 2012 Feature Pack SP1
+
+      The Microsoft Windows PowerShell Extensions for SQL Server2012 includes a provider and a set of cmdlets that enable administrators and developers to build PowerShell scripts for managing instances of SQL Server. The SQL Server PowerShell Provider delivers a simple mechanism for navigating SQL Server instances that is similar to file system paths. PowerShell scripts can then use the SQL Server Management Objects to administer the instances. The SQL Server cmdlets support operations such as executing Transact-SQL scripts or evaluating SQL Server policies.</summary>
+    <releaseNotes />
+    <tags>SQL SQL2012 .NET CLR Powershell SMO</tags>
+    <dependencies>
+      <dependency id="SQL20012.SMO" />
+    </dependencies>
+  </metadata>
+</package>
