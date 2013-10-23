@@ -16,7 +16,7 @@
     <releaseNotes />
     <tags>SQL SQL2012 .NET CLR Powershell SMO</tags>
     <dependencies>
-      <dependency id="SQL20012.SMO" />
+      <dependency id="SQL2012.SMO" />
     </dependencies>
   </metadata>
 </package>
