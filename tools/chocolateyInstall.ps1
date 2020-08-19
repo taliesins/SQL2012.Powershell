@@ -5,8 +5,8 @@ try {
     packageName = $package;
     fileType = 'msi';
     silentArgs = '/quiet';
-    url = 'http://download.microsoft.com/download/4/B/1/4B1E9B0E-A4F3-4715-B417-31C82302A70A/ENU/x86/PowerShellTools.msi';
-    url64bit = 'http://download.microsoft.com/download/4/B/1/4B1E9B0E-A4F3-4715-B417-31C82302A70A/ENU/x64/PowerShellTools.msi';
+    url = 'http://download.microsoft.com/download/3/A/6/3A632674-A016-4E31-A675-94BE390EA739/ENU/x86/PowerShellTools.msi';
+    url64bit = 'http://download.microsoft.com/download/3/A/6/3A632674-A016-4E31-A675-94BE390EA739/ENU/x64/PowerShellTools.msi';
   }
 
   Install-ChocolateyPackage @params
