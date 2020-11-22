@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
     <id>SQL2012.PowerShell</id>
-    <version>11.0.5058.0</version>
+    <version>11.0.7001.0</version>
     <title>Microsoft Windows PowerShell Extensions for SQL Server</title>
     <authors>Microsoft</authors>
     <owners>Taliesin Sisson</owners>
